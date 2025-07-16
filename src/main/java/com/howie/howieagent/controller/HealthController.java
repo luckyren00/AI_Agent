@@ -1,4 +1,4 @@
-package com.howie.agent.controller;
+package com.howie.howieagent.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
